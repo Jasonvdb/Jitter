@@ -22,6 +22,14 @@ This is a Raspberry Pi Zero 2 robot control project that interfaces with a PCA96
 python /home/jason/Bot/test.py
 ```
 
+### Git Operations
+When the user says "commit", automatically:
+1. Stage all changes: `git add .`
+2. Create a commit with a descriptive message based on the changes
+3. Push to the remote repository: `git push`
+
+Repository: https://github.com/Jasonvdb/Jitter
+
 ## Architecture
 
 ### Core Library: PCA9685.py
