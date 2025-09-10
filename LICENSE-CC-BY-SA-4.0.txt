@@ -1,0 +1,10 @@
+The 3D models in this repository are licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution:
+This project includes models derived from
+"Makey Dancing Robot of the Maker Faire" by OttoDIY
+(https://www.printables.com/model/32017-makey-dancing-robot-of-the-maker-faire)

@@ -10,6 +10,13 @@ A Raspberry Pi Zero 2 robot control project that interfaces with a PCA9685 16-ch
 - **PWM Frequency**: 50Hz for servo control
 - **Pulse Width Range**: 500-2500 microseconds (0.5ms to 2.5ms)
 
+## Licenses
+
+- **Code** in this repository is licensed under the [MIT License](./LICENSE).
+- **3D Models** in this repository are based on
+  ["Makey Dancing Robot of the Maker Faire"](https://www.printables.com/model/32017-makey-dancing-robot-of-the-maker-faire)  
+  by OttoDIY, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Quick Start
 
 Test all servos sequentially:
